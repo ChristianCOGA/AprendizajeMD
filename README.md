@@ -20,7 +20,7 @@ Las etiquetas en **_MD_** y HTML pueden anidarse
 
 * Primer punto de la lista
 - Segundo punto de la lista
-+ Tcercer punto de la lista
++ Tercer punto de la lista
 
 **COMO MOSTRAR CÓDIGO EN UN REPOSITORIO**
 ```HTML
@@ -42,4 +42,11 @@ Las etiquetas en **_MD_** y HTML pueden anidarse
 
 ## COMO PONER UNA IMAGEN
 
-![FOTO PRUEBA](GODTITUS.png "Clicka suculuneto")
+![FOTO PRUEBA](GODTITUS.png "Clicka suculento")
+
+## COMO PONER TABLAS
+
+| TITULO 1 | TITULO 2 | TITULO 3|
+|----------|:----------:|----------------:|
+|Columna 1 | Columna 2 | Columna 3 |
+|300 | 400 | 500 |
