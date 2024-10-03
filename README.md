@@ -21,3 +21,25 @@ Las etiquetas en **_MD_** y HTML pueden anidarse
 * Primer punto de la lista
 - Segundo punto de la lista
 + Tcercer punto de la lista
+
+**COMO MOSTRAR CÓDIGO EN UN REPOSITORIO**
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+
+[TUTORIAL](https://www.w3schools.com/html/default.asp "Más Info")
+
+## COMO PONER UNA IMAGEN
+
+![FOTO PRUEBA](GODTITUS.png "Clicka suculuneto")
